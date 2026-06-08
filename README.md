@@ -3,13 +3,23 @@
 zbi sme3 t7wa mzyan hhh
 
 1 - awal 7aja installi ruby
+
 2 - DIR VPN 7MI KREK O KRI M3AK 
+
 3 - DIR AW9 VPN MADKHLCH L SERVER BLA VPN WAKHA WEBSHELL MAT7GROCH HH
+
 4 - MATMS7 TA9LWA MOHIMA LA LI TAKHRIB 
+
 5 - ILA F9DNA L 2AMAL DIK SA3A ANKHRBO HHHHHH
 
+6 - hada webshell bima3na mat9derch t runni commands li fihom interaction omaghaybanch lik progress 7itach : commande li katktb katsift ka https request o menha katsna output ijik.
+o dayr f script la kant lcommande katakhd kter men 60sec gha time outi ya3ni ghaykhssk t3awd trunny script men jdid ``` ruby drupalgeddon2.rb https://*****.***.ac.** ```.
+labghiti les commandes li kiyakhdo w9t twil atkhdm b ``` nohup ``` katkhlih i runni flbackground o ki3tik output fchi file katdeclarih .
+
 chof ghadir 
+
 ``` ruby drupalgeddon2.rb https://*****.***.ac.** ```
+
 ghadkhl direct lroot maghatfhmt ta9lwa hhhhh
 
 # tani 7aja mohima bzf
